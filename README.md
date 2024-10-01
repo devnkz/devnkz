@@ -1,6 +1,6 @@
 
 
-### Ola, Eu sou o Nyckolas 🤙
+### Olá, Eu sou o Nyckolas 🤙
 
 ![Portifólio](https://img.shields.io/badge/Portifolio-000000?style=for-the-badge&logo=About.&logoColor=whit)
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
@@ -19,7 +19,6 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1">
     <img align="center" alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>  
 <br/>
 Amo programar e resolver meus desafios!
